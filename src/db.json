@@ -1,0 +1,100 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Electronics",
+      "imageUrl": "https://example.com/electronics1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Clothing",
+      "imageUrl": "https://example.com/clothing1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Books",
+      "imageUrl": "https://example.com/books1.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Home",
+      "imageUrl": "https://example.com/home1.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Doctor",
+      "imageUrl": "https://example.com/doctor1.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Sports",
+      "imageUrl": "https://example.com/sports1.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Beauty",
+      "imageUrl": "https://example.com/beauty1.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Toys",
+      "imageUrl": "https://example.com/toys1.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Kitchen",
+      "imageUrl": "https://example.com/kitchen1.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Electronics",
+      "imageUrl": "https://example.com/electronics2.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 7,
+      "title": "Product 7",
+      "price": 24,
+      "categoryId": 4,
+      "features": [
+        "Feature 13",
+        "Feature 14"
+      ],
+      "imageUrl": "https://example.com/product7.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Product 8",
+      "price": 59,
+      "categoryId": 3,
+      "features": [
+        "Feature 9",
+        "Feature 15"
+      ],
+      "imageUrl": "https://example.com/product8.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Product 9",
+      "price": 34,
+      "categoryId": 2,
+      "features": [
+        "Feature 5",
+        "Feature 16"
+      ],
+      "imageUrl": "https://example.com/product9.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Product 10",
+      "price": 45,
+      "categoryId": 4,
+      "features": [
+        "Feature 14",
+        "Feature 17"
+      ],
+      "imageUrl": "https://example.com/product10.jpg"
+    }
+  ]
+}
